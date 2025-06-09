@@ -1,7 +1,6 @@
 # .github
 **Building the open rails for travel AI applications**
 
-```markdown
 # 🏨 Kismet - AI-Ready Hotel Infrastructure
 
 **Building the open rails for travel AI applications**
