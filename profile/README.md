@@ -89,4 +89,4 @@ Our open source components are MIT licensed. Bridge integrations remain propriet
 ---
 
 **The future of hotel tech is open, profitable, and developer-owned. Let's build it together.** 🏨✨
-``` 
+
