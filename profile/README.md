@@ -9,7 +9,7 @@
 Kismet provides the foundational infrastructure that lets developers build AI-powered travel applications without wrestling with dozens of hotel APIs or PCI compliance. 
 
 ### Our Stack
-- **Open Source MCP SDK** - Coming Q3 2025 ([Preview on npm](https://www.npmjs.com/package/kismet-travel-mcp), ([Waitlist](https://ksmt.app)))
+- **Open Source MCP SDK** - Coming Q3 2025 ([Preview on npm](https://www.npmjs.com/package/kismet-travel-mcp), [Waitlist](https://ksmt.app))
 - **Hosted Infrastructure** - Identity, payments, booking ledger, and MCP server
 - **Bridge Network** - Direct integrations with PMS, POS, and event systems
 
