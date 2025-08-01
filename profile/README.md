@@ -17,7 +17,7 @@ Kismet provides the foundational infrastructure that lets developers build AI-po
 
 ### kismet-travel-mcp (Preview Release)
 [![npm version](https://img.shields.io/npm/v/kismet-travel-mcp.svg)](https://www.npmjs.com/package/kismet-travel-mcp)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Our Model Context Protocol (MCP) SDK for AI agents to interact with hotel systems. This package provides the MCP tools and protocol - use it with Kismet's hosted infrastructure or bring your own server. Currently in preview - full open source release planned for Q3 2025.
 
